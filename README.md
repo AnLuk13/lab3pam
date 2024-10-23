@@ -1,4 +1,4 @@
-# lab2pam
+# lab3pam
 
 A new Flutter project.
 
